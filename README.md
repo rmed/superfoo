@@ -1,4 +1,4 @@
 superfoo
 ========
 
-Example repository used for tutorials
+Simple module used as an example for distutils.
